@@ -1,0 +1,34 @@
+<RCC>
+  <qresource prefix="LoginBG">
+    <file>img/bg/LoginBG.png</file>
+  </qresource>
+  <qresource prefix="OrderDetails">
+    <file>img/bg/OrderDetails.png</file>
+  </qresource>
+  <qresource prefix="AddStaff">
+    <file>img/bg/AddStaff.png</file>
+  </qresource>
+  <qresource prefix="Icons">
+    <file>img/Logout.png</file>
+    <file>img/Staff.png</file>
+    <file>img/1.png</file>
+    <file>img/Combo.png</file>
+    <file>img/Deserts.png</file>
+    <file>img/Dinner.png</file>
+    <file>img/Drinks.png</file>
+    <file>img/Snacks.png</file>
+    <file>img/User.png</file>
+  </qresource>
+  <qresource prefix="Logo">
+    <file>img/bg/Dera Logo.png</file>
+  </qresource>
+  <qresource prefix="ManageStaffBG">
+    <file>img/bg/ManageStaff.png</file>
+  </qresource>
+  <qresource prefix="AdminDash">
+    <file>img/bg/AdminDash.png</file>
+  </qresource>
+  <qresource prefix="OrderBG">
+    <file>img/bg/OrderBG.png</file>
+  </qresource>
+</RCC>
